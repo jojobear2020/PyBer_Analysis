@@ -14,11 +14,16 @@ The purpose of the analysis is to compare PyBer metrics based on the city type. 
 
 We looked at the data by summarizing some key metrics on the market/city type level. 
 
+
 ![](https://github.com/jojobear2020/PyBer_Analysis/blob/master/Analysis/pyber_summary_df.PNG)
+
  
-* Rural areas tend to have lower ridership, and hence lower fares collections. This as results leads to higher cost-per-ride/driver.
+* Rural areas tend to have lower ridership, hence, lower fares collections. As a result, this leads to higher cost-per-ride/driver.
+
 * The higher the population density, the more demand we see in ride-sharing services.
+
 * More rides generally lead to lower average cost.
+
 
  ![](https://github.com/jojobear2020/PyBer_Analysis/blob/master/Analysis/pyber_fare_summary.png)
 
