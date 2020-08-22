@@ -4,9 +4,10 @@ Module 5 - PyBer with Matplotlib
 ## Overview of the analysis
 
 The purpose of the analysis is to compare PyBer metrics based on the city type. Currently the company has presence in three major areas with the unequal marker share:
-1. Urban
+1. Rural
 2. Suburban
-3. Rural
+3.Urban
+
 
 
 ## Results
@@ -20,6 +21,7 @@ We looked at the data by summarizing some key metrics on the market/city type le
 •	More rides generally lead to lower average cost.
 
  ![](https://github.com/jojobear2020/PyBer_Analysis/blob/master/Analysis/pyber_fare_summary.png)
+
 
 
 ## Summary
