@@ -6,7 +6,7 @@ Module 5 - PyBer with Matplotlib
 The purpose of the analysis is to compare PyBer metrics based on the city type. Currently the company has presence in three major areas with the unequal marker share:
 1. Rural
 2. Suburban
-3.Urban
+3. Urban
 
 
 
