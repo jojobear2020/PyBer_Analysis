@@ -25,7 +25,7 @@ We looked at the data by summarizing some key metrics on the market/city type le
 
 
 
-* The higher the population density, the more demand we see in ride-sharing services. This could be explained by the fact that urban areas generally have fewer people that have cars, which leads to higher ride-sharing demand. 
+* The higher the population density, the more demand we see in the ride-sharing services. This could be explained by the fact that urban areas generally have fewer people that have cars, which leads to higher ride-sharing demand. 
 
 * More rides/higher service demand generally lead to lower average fare cost per ride/driver.
 
@@ -43,6 +43,6 @@ Based on the data and received results, we can recommend:
 
 2.	Increase participating drivers’ presence in rural areas. Not having enough drivers, potentially leads to fewer rides, less fare collection, and as a result, higher average fare per ride/driver.
 
-3.	Increase presence in stronger-performing markets and invest in more advertising/marketing in those specific areas to potentially drive even mpore demand. The city type has a direct correlation with the ride-sharing demand and popularity.
+3.	Invest in more advertising/marketing to potentially drive more demand based on the city type.
    
 
