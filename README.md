@@ -13,7 +13,7 @@ The purpose of the analysis is to compare PyBer metrics based on the city type. 
 
 ## Results
 
-We looked at the data by summarizing some key metrics on the market/city type level. 
+We looked at the data by summarizing some key metrics on the market/city type level. The results were as shown below.
 
 
 ![](https://github.com/jojobear2020/PyBer_Analysis/blob/master/Analysis/pyber_summary_df.PNG)
